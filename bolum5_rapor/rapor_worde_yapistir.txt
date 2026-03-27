@@ -1,0 +1,13 @@
+﻿LLM Tabanlı Çoklu-Ajan İşbirliği Sistemleri: Tasarım, Uygulama ve Değerlendirme
+
+1) Giriş
+Bu proje, tek ajanlı ve çoklu ajanlı stratejileri karşılaştırmak için hazırlandı.
+
+2) Uygulama
+- Paralel çoklu sohbet
+- Ajan başlatma ve loglama
+- Token ve gecikme metrikleri
+- Dashboard + Log + Analitik sayfaları
+
+3) Sonuç
+Görev tipine göre farklı stratejilerin avantajları gözlemlenmiştir.
