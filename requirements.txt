@@ -1,0 +1,1 @@
+pandas==1.5.3\nnumpy==1.24.3\nmatplotlib==3.7.1\nseaborn==0.12.2\nscikit-learn==1.3.0\nstreamlit==1.26.0\nplotly==5.15.0\npython-dotenv==1.0.0\nrequests==2.31.0\ntransformers==4.32.0\ntorch==2.0.1\npydantic==2.0.0\npyyaml==6.0\ntqdm==4.65.0\njson5==0.9.14
