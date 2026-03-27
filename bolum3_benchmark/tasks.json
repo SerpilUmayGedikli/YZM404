@@ -1,0 +1,17 @@
+﻿[
+  {"task_id":"T1-01","tier":1,"prompt":"2+2 kaçtır?","expected_answer":"4","rubric":{},"domain":"reasoning"},
+  {"task_id":"T1-02","tier":1,"prompt":"Merhaba'yı İngilizceye çevir.","expected_answer":"Hello","rubric":{},"domain":"analysis"},
+  {"task_id":"T1-03","tier":1,"prompt":"Python'da liste nedir?","expected_answer":"", "rubric":{},"domain":"coding"},
+
+  {"task_id":"T2-01","tier":2,"prompt":"Metni özetle ve duygu analizi yap.","expected_answer":"","rubric":{},"domain":"analysis"},
+  {"task_id":"T2-02","tier":2,"prompt":"Fonksiyon yaz ve test öner.","expected_answer":"","rubric":{},"domain":"coding"},
+  {"task_id":"T2-03","tier":2,"prompt":"3 adımlı çözüm planı üret.","expected_answer":"","rubric":{},"domain":"reasoning"},
+
+  {"task_id":"T3-01","tier":3,"prompt":"Çelişkili iki kaynaktan sonuç çıkar.","expected_answer":null,"rubric":{"coherence":2},"domain":"analysis"},
+  {"task_id":"T3-02","tier":3,"prompt":"Mantık tuzağını tespit et.","expected_answer":null,"rubric":{"coherence":2},"domain":"reasoning"},
+  {"task_id":"T3-03","tier":3,"prompt":"Yanıltıcı ifadeleri düzelt.","expected_answer":null,"rubric":{"coherence":2},"domain":"analysis"},
+
+  {"task_id":"T4-01","tier":4,"prompt":"Kısa hikaye yaz.","expected_answer":null,"rubric":{"creative":2},"domain":"creative"},
+  {"task_id":"T4-02","tier":4,"prompt":"Bir argüman metni üret.","expected_answer":null,"rubric":{"creative":2},"domain":"creative"},
+  {"task_id":"T4-03","tier":4,"prompt":"Yaratıcı slogan üret.","expected_answer":null,"rubric":{"creative":2},"domain":"creative"}
+]

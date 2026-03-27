@@ -1,0 +1,66 @@
+[
+  {
+    "timestamp": 1774606511.517775,
+    "agent_id": "gemini",
+    "prompt": "demo görev",
+    "output": "gemini processed: demo görev",
+    "tokens": 6,
+    "latency_sec": 0.8
+  },
+  {
+    "timestamp": 1774606515.8559265,
+    "agent_id": "chatgpt",
+    "prompt": "sjvnjsd",
+    "output": "chatgpt processed: sjvnjsd",
+    "tokens": 4,
+    "latency_sec": 0.8
+  },
+  {
+    "timestamp": 1774606516.4299014,
+    "agent_id": "chatgpt",
+    "prompt": "sjvnjsd",
+    "output": "chatgpt processed: sjvnjsd",
+    "tokens": 4,
+    "latency_sec": 0.8
+  },
+  {
+    "timestamp": 1774606517.38161,
+    "agent_id": "claude",
+    "prompt": "sjvnjsd",
+    "output": "claude processed: sjvnjsd",
+    "tokens": 4,
+    "latency_sec": 0.8
+  },
+  {
+    "timestamp": 1774607025.218321,
+    "agent_id": "gemini",
+    "prompt": "demo görev",
+    "output": "gemini processed: demo görev",
+    "tokens": 6,
+    "latency_sec": 0.8
+  },
+  {
+    "timestamp": 1774607029.0009305,
+    "agent_id": "claude",
+    "prompt": "dıjfelfa",
+    "output": "claude processed: dıjfelfa",
+    "tokens": 4,
+    "latency_sec": 0.8
+  },
+  {
+    "timestamp": 1774607029.812263,
+    "agent_id": "claude",
+    "prompt": "dıjfelfa",
+    "output": "claude processed: dıjfelfa",
+    "tokens": 4,
+    "latency_sec": 0.8
+  },
+  {
+    "timestamp": 1774607030.3321989,
+    "agent_id": "chatgpt",
+    "prompt": "dıjfelfa",
+    "output": "chatgpt processed: dıjfelfa",
+    "tokens": 4,
+    "latency_sec": 0.8
+  }
+]

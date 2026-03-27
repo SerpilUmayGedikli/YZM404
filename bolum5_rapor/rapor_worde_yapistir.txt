@@ -1,13 +1,16 @@
 ﻿LLM Tabanlı Çoklu-Ajan İşbirliği Sistemleri: Tasarım, Uygulama ve Değerlendirme
 
 1) Giriş
-Bu proje, tek ajanlı ve çoklu ajanlı stratejileri karşılaştırmak için hazırlandı.
+Bu çalışma tek-ajan ve çoklu-ajan stratejilerini aynı görev setinde karşılaştırır.
 
-2) Uygulama
-- Paralel çoklu sohbet
-- Ajan başlatma ve loglama
-- Token ve gecikme metrikleri
-- Dashboard + Log + Analitik sayfaları
+2) Yöntem
+S1, S1+, S3, S4, S5, S6 stratejileri agent simülasyonu ile çalıştırılmıştır.
 
-3) Sonuç
-Görev tipine göre farklı stratejilerin avantajları gözlemlenmiştir.
+3) Benchmark
+T1-T4 seviyelerinde toplam 12 görev kullanılmıştır.
+
+4) Metrikler
+TSR, TE, WCL, OQS ve CEI hesaplanmıştır.
+
+5) Sonuç
+Görev tipine bağlı olarak strateji performansı değişmekte, tek bir strateji her durumda optimum olmamaktadır.

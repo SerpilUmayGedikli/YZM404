@@ -1,27 +1,7 @@
-﻿<!doctype html>
-<html lang="tr">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>YZM404 - Dashboard</title>
-  <link rel="stylesheet" href="/static/css/style.css" />
-</head>
+﻿<!doctype html><html lang="tr"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>YZM404</title><link rel="stylesheet" href="/static/css/style.css"></head>
 <body>
-  <header><h1>🌿 YZM404 Multi-Agent Dashboard</h1><nav><a href="/">Panel</a> | <a href="/logs">Loglar</a> | <a href="/analytics">Grafikler</a></nav></header>
-  <main>
-    <section class="card">
-      <h2>Agent Çalıştır</h2>
-      <input id="mission" placeholder="Görev yaz..." />
-      <button onclick="startAgents()">Başlat</button>
-      <pre id="status"></pre>
-    </section>
-    <section class="card">
-      <h2>Paralel Sohbetler</h2>
-      <select id="agent"><option>chatgpt</option><option>claude</option><option>gemini</option></select>
-      <button onclick="newChat()">Yeni Sohbet</button>
-      <div id="chats"></div>
-    </section>
-  </main>
-  <script src="/static/js/dashboard.js"></script>
-</body>
-</html>
+<header><h1>🌿 Antigravity YZM404 Dashboard</h1><nav><a href="/">Panel</a> | <a href="/logs">Loglar</a> | <a href="/analytics">Grafikler</a></nav></header>
+<main>
+<section class="card"><h2>Çoklu Agent Çalıştır</h2><input id="mission" placeholder="Görev gir..."><button onclick="startAgents()">Başlat</button><pre id="status"></pre></section>
+<section class="card"><h2>Paralel Sohbetler</h2><select id="agent"><option>chatgpt</option><option>claude</option><option>gemini</option></select><button onclick="newChat()">Yeni Sohbet</button><div id="chats"></div></section>
+</main><script src="/static/js/dashboard.js"></script></body></html>
